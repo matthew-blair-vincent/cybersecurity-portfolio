@@ -15,7 +15,7 @@ Interested in **SOC Analyst** and **Threat Intelligence** roles.
 ---
 
 ## 📄 CV
-- [Download my CV (PDF)](./MatthewBlairVincent_CyberCV.pdf)
+- [Download my CV (PDF)].(/MatthewBlairVincent_CyberCV.pdf)
 
 ---
 
