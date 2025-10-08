@@ -5,7 +5,7 @@ Former Parachute Regiment soldier (2007–2016) with operational intelligence ex
 plus international security work in the DRC (ranger training) and South Africa (undercover ops).  
 
 Now serving in the Royal Artillery Reserves and transitioning into cybersecurity.  
-I’m actively seeking an **entry-level role (SOC Analyst, Threat Intelligence, or Incident Response)**.  
+I’m actively seeking an **entry-level role** or **apprenticeship (SOC Analyst, Threat Intelligence, or Incident Response)**.  
 
 I dedicate much of my spare time to hands-on labs with **Immersive Labs, TryHackMe, and Google Cybersecurity Certificate**.  
 Currently preparing for **CompTIA Security+**.  
