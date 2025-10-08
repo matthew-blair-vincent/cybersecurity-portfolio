@@ -55,7 +55,7 @@ Currently preparing for **CompTIA Security+**.
 
 ## 📫 Contact
 - **Email:** matt.blair1@proton.me  
-- **LinkedIn:** [linkedin.com/in/YOURUSERNAME](https://linkedin.com/in/matthew-b-5254b6113/)  
+- **LinkedIn:** https://linkedin.com/in/matthew-b-5254b6113/  
 - **GitHub:** [github.com/matthew-blair-vincent](https://github.com/matthew-blair-vincent)  
 - **TryHackMe:** [tryhackme.com/p/matt.blair146](https://tryhackme.com/p/matt.blair146)  
 - **Immersive Labs:** Username `surfmatt_`
