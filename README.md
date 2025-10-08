@@ -38,13 +38,9 @@ Currently preparing for **CompTIA Security+**.
 
 ## 📝 Lab Notes & Projects
 ### SOC & Incident Response
-- [Suspicious Email Analysis](./lab-notes/suspicious-email.md)  
-- [Registry Key Hunt](./lab-notes/registry-hunt.md)  
-- [Wireshark Filters – FTP/ICMP](./lab-notes/wireshark.md)  
-
-### Threat Intelligence & OSINT
-- [Illegal Wildlife Trade Case Study (OSINT/HUMINT crossover)](./lab-notes/iwt-osint.md)  
-- [Open Source Indicators – Brute Force Attacks](./lab-notes/bruteforce.md)  
+- [Suspicious Email Analysis](./lab-notes/suspicious-email.md)  coming soon
+- [Registry Key Hunt](./lab-notes/registry-hunt.md)  coming soon
+- [Wireshark Filters – FTP/ICMP](./lab-notes/wireshark.md)  coming soon
 
 ---
 
