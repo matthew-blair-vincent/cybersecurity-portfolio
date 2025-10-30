@@ -13,7 +13,6 @@ Currently preparing for **CompTIA Security+**.
 ---
 
 ## 📄 CV
-- [Download 1-Page CV (PDF)](./MatthewBlairVincent_Cyber_CV_1Page.pdf)  
 - [Download 2-Page Detailed CV (PDF)](./MatthewBlairVincent_Cyber_CV_2Page.pdf)  
 
 ---
