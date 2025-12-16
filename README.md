@@ -18,7 +18,7 @@ Currently preparing for **CompTIA Security+**.
 ---
 
 ## 🎓 Training & Certifications
-- **Google Cybersecurity Professional Certificate** (in progress)  
+- **Google Cybersecurity Professional Certificate**
 - **CompTIA Security+** (studying)  
 - **Immersive Labs:** SOC, incident response, malware analysis, forensics  
 - **TryHackMe:** SOC fundamentals, suspicious email analysis, log analysis, Wireshark filtering  
@@ -30,7 +30,7 @@ Currently preparing for **CompTIA Security+**.
 
 | Platform          | Progress |
 |-------------------|----------|
-| **Immersive Labs** | - Username: `surfmatt_`  <br> - **256 labs completed**  <br> - **14,240 points earned**  <br> - Focus: SOC, Incident Response, Malware Analysis, Forensics, OSINT |
+| **Immersive Labs** | - Username: `surfmatt_`  <br> - **271 labs completed**  <br> - **15,770 points earned**  <br> - Focus: SOC, Incident Response, Malware Analysis, Forensics, OSINT |
 | **TryHackMe**      | [![TryHackMe](https://img.shields.io/badge/TryHackMe-matt.blair146-informational?logo=tryhackme)](https://tryhackme.com/p/matt.blair146) |
 
 ---
