@@ -46,8 +46,8 @@ Selected analytical write-ups are available in the [lab-notes](./lab-notes) dire
 This section documents selected labs and exercises, focusing on **analysis, reporting, and decision-making**, rather than step-by-step walkthroughs.
 
 ### SOC & Incident Response
-- **Suspicious Email Analysis**  
-- **Registry Key Hunt** – coming soon  
+- [Suspicious Email Analysis](./lab-notes/suspicious-email-analysis.md)
+- [Social Engineering Analysis](./lab-notes/social-engineering-analysis.md)
 - **Wireshark Filters (FTP / ICMP)** – coming soon  
 
 *(Write-ups will focus on observations, indicators, actions taken, and recommended mitigations.)*
