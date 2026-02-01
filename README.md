@@ -30,7 +30,7 @@ Currently preparing for **CompTIA Security+**.
 
 | Platform          | Progress |
 |-------------------|----------|
-| **Immersive Labs** | - Username: `surfmatt_`  <br> - **271 labs completed**  <br> - **15,770 points earned**  <br> - Focus: SOC, Incident Response, Malware Analysis, Forensics, OSINT |
+| **Immersive Labs** | - Username: `surfmatt_`  <br> - **300 labs completed**  <br> - **18,940 points earned** <br> - **307/5422 ranking** <br> - Focus: SOC, Incident Response, Malware Analysis, Forensics, OSINT |
 | **TryHackMe**      | [![TryHackMe](https://img.shields.io/badge/TryHackMe-matt.blair146-informational?logo=tryhackme)](https://tryhackme.com/p/matt.blair146) |
 
 ---
