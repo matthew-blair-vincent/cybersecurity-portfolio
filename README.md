@@ -1,4 +1,5 @@
 # Cybersecurity Portfolio – Matthew Blair-Vincent
+![Profile Views](https://komarev.com/ghpvc/?username=matthew-blair-vincent&color=blue)
 
 CompTIA Security+ Certified | SC Cleared | SOC & Threat Intelligence Focus
 
