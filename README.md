@@ -2,6 +2,12 @@
 
 CompTIA Security+ Certified | SC Cleared | SOC & Threat Intelligence Focus
 
+## 🏅 Certifications
+
+[![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-red)](https://www.credly.com/badges/1161a5aa-82f5-4195-b02c-9c63b625ac55/public_url)
+
+[![Google Cybersecurity Professional Certificate](https://img.shields.io/badge/Google-Cybersecurity%20Professional%20Certificate-blue)](https://www.credly.com/badges/ae342fa7-93d7-44d9-a6d9-e1c93e198db0/public_url)
+
 ---
 
 ## 👋 About Me
