@@ -1,72 +1,142 @@
 # Cybersecurity Portfolio – Matthew Blair-Vincent
 
+CompTIA Security+ Certified | SC Cleared | SOC & Threat Intelligence Focus
+
+---
+
 ## 👋 About Me
-Former Parachute Regiment soldier (2007–2016) with operational intelligence experience on Herrick 8 & 13,  
-plus international security work in the DRC (ranger training) and South Africa (undercover operations).
 
-I am currently serving in the Royal Artillery Army Reserve and transitioning into cybersecurity.  
-I am actively seeking an **entry-level role or apprenticeship** in **SOC operations, Threat Intelligence, or Incident Response**.
+Former Parachute Regiment soldier (2007–2016) with operational intelligence experience on **Herrick 8 & 13**, combined with international security work in the **Democratic Republic of Congo (ranger training)** and **South Africa (undercover investigations)**.
 
-I dedicate significant time to hands-on **defensive cyber training** using Immersive Labs, TryHackMe, and the Google Cybersecurity Professional Certificate, and I am currently preparing for **CompTIA Security+**.
+I currently serve in the **Royal Artillery Army Reserve** and am transitioning into cybersecurity.
+
+I am seeking an **entry-level role or apprenticeship** in **Security Operations (SOC), Threat Intelligence, or Incident Response**, where I can apply structured analysis, investigative thinking, and decision-making developed through military intelligence and security operations.
+
+Alongside my service, I dedicate significant time to **hands-on defensive cyber training** through Immersive Labs, TryHackMe, and the Google Cybersecurity Professional Certificate.
 
 ---
 
 ## 🇬🇧 Cyber & Defence Focus
-I am deliberately aligning my civilian cybersecurity training with Defence requirements, with a strong focus on **defensive cyber operations**, situational awareness, and incident response.
 
-My background in operational intelligence, combined with current Army Reserve service, shapes how I approach cyber security – prioritising structured analysis, clear reporting, and decision-making under pressure. My training focuses on skills directly relevant to **SOC environments, threat intelligence, and incident response**, with the long-term aim of contributing effectively within both civilian and military cyber contexts.
+My cybersecurity training is deliberately aligned with **defensive cyber operations and intelligence-led security practices**.
+
+My background in operational intelligence shapes how I approach cybersecurity:
+
+- Structured analysis of information and indicators
+- Clear reporting and documentation
+- Situational awareness and threat assessment
+- Decision-making under pressure
+
+My training and portfolio work focuses on capabilities directly relevant to **SOC environments, threat intelligence analysis, and incident response**, with the long-term aim of contributing effectively in both **civilian and defence cyber roles**.
 
 ---
 
 ## 📄 CV
-- [Download 2-Page Detailed CV (PDF)](./MatthewBlairVincent_Cyber_CV_2Page.pdf)
+
+Download my full CV here:
+
+- [Download 2-Page Cybersecurity CV (PDF)](./MatthewBlairVincent_Cyber_CV_2Page.pdf)
 
 ---
 
 ## 🎓 Training & Certifications
+
+- **CompTIA Security+ (SY0-701)**
 - **Google Cybersecurity Professional Certificate**
-- **CompTIA Security+**
-- **Immersive Labs:** SOC operations, incident response, malware analysis, forensics
-- **TryHackMe:** SOC fundamentals, suspicious email analysis, log analysis, Wireshark filtering
-- **MOD Information Assurance Training:** Defence Information Management Passport & Protecting Information
+- **Immersive Labs**
+  - SOC operations
+  - Incident response
+  - Malware analysis
+  - Digital forensics
+- **TryHackMe**
+  - SOC fundamentals
+  - Suspicious email analysis
+  - Log analysis
+  - Wireshark traffic analysis
+- **MOD Information Assurance Training**
+  - Defence Information Management Passport
+  - Protecting Information
 
 ---
 
-## 🎯 Learning Progress
+## 📊 Learning Progress
 
 | Platform | Progress |
 |--------|---------|
-| **Immersive Labs** | - Username: `surfmatt_`  <br> - **300 labs completed**  <br> - **18,940 points earned**  <br> - **307 / 5422 ranking**  <br> - Focus: SOC, Incident Response, Malware Analysis, Forensics, OSINT |
-| **TryHackMe** | - Username: `matt.blair146`  <br><br> <a href="https://tryhackme.com/p/matt.blair146"><img src="https://img.shields.io/badge/TryHackMe-matt.blair146-informational?logo=tryhackme" alt="TryHackMe Profile" /></a> |
+| **Immersive Labs** | Username: `surfmatt_` <br> **300+ labs completed** <br> **18,940 points earned** <br> Ranking **307 / 5422** <br> Focus areas: SOC investigations, incident response, malware analysis, digital forensics, OSINT |
+| **TryHackMe** | Username: `matt.blair146` <br><br> <a href="https://tryhackme.com/p/matt.blair146"><img src="https://img.shields.io/badge/TryHackMe-matt.blair146-informational?logo=tryhackme" alt="TryHackMe Profile" /></a> |
 
 ---
 
 ## 📝 Lab Notes & Projects
-Selected analytical write-ups are available in the [lab-notes](./lab-notes) directory.
-This section documents selected labs and exercises, focusing on **analysis, reporting, and decision-making**, rather than step-by-step walkthroughs.
+
+Selected analytical write-ups are available in the **lab-notes** directory.
+
+These notes document practical exercises and investigations with an emphasis on:
+
+- analytical observations
+- indicators of compromise
+- investigative steps taken
+- recommended mitigations
+
+Rather than step-by-step walkthroughs, the focus is on **analyst-style reporting and reasoning**.
 
 ### SOC & Incident Response
+
 - [Suspicious Email Analysis](./lab-notes/suspicious-email-analysis.md)
 - [Social Engineering Analysis](./lab-notes/social-engineering-analysis.md)
-- **Wireshark Filters (FTP / ICMP)** – coming soon  
 
-*(Write-ups will focus on observations, indicators, actions taken, and recommended mitigations.)*
+Upcoming:
+
+- Wireshark traffic analysis (FTP / ICMP filtering)
+- Windows log analysis exercises
+- Incident response scenario write-ups
 
 ---
 
-## 🛠️ Tools & Technologies
-- **SIEMs:** Splunk (introductory labs)
-- **Packet & Log Analysis:** Wireshark, tcpdump, Suricata
-- **Forensics:** Autopsy (intro level), Volatility (beginner)
-- **Scripting & Automation:** Python basics for log parsing and regex filtering
-- **Operating Systems:** Linux CLI, Windows event logs
+## 🛠 Tools & Technologies
+
+### Security Operations
+
+- SIEM fundamentals (Splunk introductory labs)
+- Log analysis and alert investigation
+- Threat detection techniques
+- Incident response fundamentals
+
+### Network & Packet Analysis
+
+- Wireshark
+- tcpdump
+- Suricata
+
+### Digital Forensics
+
+- Autopsy (introductory)
+- Volatility (beginner)
+
+### Systems & Scripting
+
+- Linux command line
+- Windows event log analysis
+- Python basics (log parsing and regex filtering)
 
 ---
 
 ## 📫 Contact
-- **Email:** matt.blair1@proton.me
-- **LinkedIn:** https://linkedin.com/in/matthew-b-5254b6113/
-- **GitHub:** https://github.com/matthew-blair-vincent
-- **TryHackMe:** https://tryhackme.com/p/matt.blair146
-- **Immersive Labs:** Username `surfmatt_`
 
+Email: matt.blair1@proton.me  
+LinkedIn: https://linkedin.com/in/matthew-b-5254b6113  
+GitHub: https://github.com/matthew-blair-vincent
+
+---
+
+## 🎯 Current Focus
+
+I am currently focused on building practical experience in:
+
+- SOC investigation workflows
+- Threat intelligence analysis
+- Log analysis and detection techniques
+- Incident response fundamentals
+
+The aim of this portfolio is to document that learning journey and demonstrate **analytical thinking, structured investigation, and continuous development in cybersecurity.**
