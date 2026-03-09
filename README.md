@@ -13,13 +13,13 @@ CompTIA Security+ Certified | SC Cleared | SOC & Threat Intelligence Focus
 
 ## 👋 About Me
 
-Former Parachute Regiment soldier (2007–2016) with operational intelligence experience on **Herrick 8 & 13**, combined with international security work in the **Democratic Republic of Congo (ranger training)** and **South Africa (undercover investigations)**.
+Former Parachute Regiment soldier (2007–2016) with operational intelligence experience on Herrick 8 & 13, alongside international security work in the Democratic Republic of Congo and South Africa.
 
-I currently serve in the **Royal Artillery Army Reserve** and am transitioning into cybersecurity.
+I currently serve in the Royal Artillery Army Reserve and am transitioning into cybersecurity.
 
-I am seeking an **entry-level role or apprenticeship** in **Security Operations (SOC), Threat Intelligence, or Incident Response**, where I can apply structured analysis, investigative thinking, and decision-making developed through military intelligence and security operations.
+I am seeking an entry-level role in **Security Operations (SOC), Threat Intelligence, or Incident Response**, where I can combine analytical thinking, investigative skills, and structured reporting developed through military intelligence and security operations.
 
-Alongside my service, I dedicate significant time to **hands-on defensive cyber training** through Immersive Labs, TryHackMe, and the Google Cybersecurity Professional Certificate.
+Alongside my service, I dedicate significant time to hands-on cyber training through **Immersive Labs, TryHackMe, and the Google Cybersecurity Professional Certificate**, and I recently achieved **CompTIA Security+ certification**.
 
 ---
 
