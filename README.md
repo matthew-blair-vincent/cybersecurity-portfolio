@@ -25,7 +25,7 @@ My background in operational intelligence, combined with current Army Reserve se
 
 ## 🎓 Training & Certifications
 - **Google Cybersecurity Professional Certificate**
-- **CompTIA Security+** (studying)
+- **CompTIA Security+**
 - **Immersive Labs:** SOC operations, incident response, malware analysis, forensics
 - **TryHackMe:** SOC fundamentals, suspicious email analysis, log analysis, Wireshark filtering
 - **MOD Information Assurance Training:** Defence Information Management Passport & Protecting Information
