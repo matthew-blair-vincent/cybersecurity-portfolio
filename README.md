@@ -71,7 +71,7 @@ Download my full CV here:
 | Platform | Progress |
 |--------|---------|
 | **Immersive Labs** | Username: `surfmatt_` <br> **300+ labs completed** <br> **18,940 points earned** <br> Ranking **307 / 5422** <br> Focus areas: SOC investigations, incident response, malware analysis, digital forensics, OSINT |
-| **TryHackMe** | Username: `matt.blair146` <br><br> <a href="https://tryhackme.com/p/matt.blair146"><img src="https://img.shields.io/badge/TryHackMe-matt.blair146-informational?logo=tryhackme" alt="TryHackMe Profile" /></a> |
+| **TryHackMe** | Username: `Shouldersurfer` <br><br> <a href="https://tryhackme.com/p/Shouldersurfer"><img src="https://img.shields.io/badge/TryHackMe-Shouldersurfer-informational?logo=tryhackme" alt="TryHackMe Profile" /></a> |
 
 ---
 
